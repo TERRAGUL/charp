@@ -1,0 +1,14 @@
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfoInputs.cache
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfo.cs
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.csproj.CoreCompileInputs.cache
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.exe
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.deps.json
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.runtimeconfig.json
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.dll
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.pdb
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.dll
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\refint\Pianino.dll
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.pdb
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.genruntimeconfig.cache
+C:\Users\MACHENIKE\source\repos\Pianino\Pianino\obj\Debug\net6.0\ref\Pianino.dll

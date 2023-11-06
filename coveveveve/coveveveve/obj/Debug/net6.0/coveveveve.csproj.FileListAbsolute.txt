@@ -1,0 +1,17 @@
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\coveveveve.exe
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\coveveveve.deps.json
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\coveveveve.runtimeconfig.json
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\coveveveve.dll
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\coveveveve.pdb
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.csproj.AssemblyReference.cache
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.AssemblyInfoInputs.cache
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.AssemblyInfo.cs
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.csproj.CoreCompileInputs.cache
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.csproj.CopyComplete
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.dll
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\refint\coveveveve.dll
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.pdb
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\coveveveve.genruntimeconfig.cache
+C:\Users\MACHENIKE\source\repos\coveveveve\coveveveve\obj\Debug\net6.0\ref\coveveveve.dll

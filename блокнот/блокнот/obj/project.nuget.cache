@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vKYMiYIkw5RDvFFYHzo4mPz7RiDnV6xwhZXDjP7p9AWRCtWSDAwiKLy1Upw2w+Tl6yK2Zl3DRtluNQ3W8278Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MACHENIKE\\source\\repos\\блокнот\\блокнот\\блокнот.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MACHENIKE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

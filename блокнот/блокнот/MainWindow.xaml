@@ -1,0 +1,72 @@
+﻿<Window x:Class="блокнот.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ежедневник" Height="450" Width="800">
+    
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <DatePicker x:Name="datePicker" Margin="5">
+            <DatePicker.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.925">
+                    <GradientStop Color="#FFE84A5F" Offset="1"/>
+                    <GradientStop Color="#FF99B898"/>
+                    <GradientStop Color="#FFFF847C" Offset="0.873"/>
+                    <GradientStop Color="#FFFECEAB" Offset="0.357"/>
+                </LinearGradientBrush>
+            </DatePicker.Background>
+        </DatePicker>
+        <ListBox x:Name="notesListBox" Margin="10,28,10,10" SelectionChanged="NotesListBox_SelectionChanged" Opacity="0.5">
+            <ListBox.Background>
+                <ImageBrush>
+                    <ImageBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="1" CenterX="0.85" ScaleX="2" ScaleY="2"/>
+                            <SkewTransform CenterX="0.85" CenterY="1" AngleX="0"/>
+                            <RotateTransform CenterX="0.85" CenterY="1"/>
+                            <TranslateTransform X="1" Y="1"/>
+                        </TransformGroup>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </ListBox.Background>
+        </ListBox>
+
+        <StackPanel Grid.Column="1" Margin="5,0,5,10" OpacityMask="#FFFF847C">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.765">
+                    <GradientStop Color="#FFA43C35"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFFECEAB" Offset="0.197"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <TextBox x:Name="titleTextBox" Height="20" Margin="5" >
+                <TextBox.Background>
+                    <SolidColorBrush Color="White" Opacity="1"/>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="descriptionTextBox" Height="100" Margin="5" TextWrapping="Wrap">
+                <TextBox.Background>
+                    <SolidColorBrush Color="White" Opacity="1"/>
+                </TextBox.Background>
+            </TextBox>
+            <Button x:Name="addButton" Content="Добавить" Click="Add" Margin="5">
+                <Button.Background>
+                    <SolidColorBrush Color="#FF99B898" Opacity="0.75"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="updateButton" Content="Изменить" Click="UpdateButton" Margin="5">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFDDDDDD" Opacity="0.85"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="deleteButton" Content="Удалить" Margin="5" Click="DeleteButton">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFE84A5F" Opacity="0.95"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,80 @@
+﻿<Window x:Class="_9_практическая.SendFile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_9_практическая"
+        mc:Ignorable="d"
+        Title="SendFile" Height="450" Width="800">
+    <Grid Background="#413C42">
+        <Grid Margin="15">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Foreground="White" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    Для отправки необходимо ввести свою почту и пароль от нее, а так же почту человека, которому вы хотите отправить этот файл. Сначала ваша почта!
+                </TextBlock>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="60*"/>
+                        <ColumnDefinition Width="20*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label VerticalAlignment="Center" HorizontalAlignment="Center">Логин</Label>
+                    <TextBox Grid.Column="1" VerticalAlignment="Center" x:Name="From" Foreground="White"></TextBox>
+                    <ComboBox x:Name="MailCMBX" Grid.Column="2" Foreground="White">
+                        <ComboBoxItem>Mail</ComboBoxItem>
+                        <ComboBoxItem>Google</ComboBoxItem>
+                        <ComboBoxItem>Yandex</ComboBoxItem>
+                        <ComboBoxItem>Rambler</ComboBoxItem>
+                    </ComboBox>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="80*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label VerticalAlignment="Center" HorizontalAlignment="Center">Пароль</Label>
+                    <PasswordBox Grid.Column="1" VerticalAlignment="Center" x:Name="Pass" Foreground="White"></PasswordBox>
+                </Grid>
+            </Grid>
+            <Separator Grid.Row="1"/>
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Foreground="White" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    Теперь почта того, кому вы хотите отправить, а также тема приложения
+                </TextBlock>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="80*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label VerticalAlignment="Center" HorizontalAlignment="Center">Кому</Label>
+                    <TextBox Grid.Column="1" VerticalAlignment="Center" x:Name="To" Foreground="White"></TextBox>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="80*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label VerticalAlignment="Center" HorizontalAlignment="Center">Тема</Label>
+                    <TextBox Grid.Column="1" VerticalAlignment="Center" x:Name="Subject" Foreground="White"></TextBox>
+                </Grid>
+            </Grid>
+            <Button Grid.Row="3" Click="Button_Click">Отправить</Button>
+        </Grid>
+    </Grid>
+</Window>

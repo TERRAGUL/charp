@@ -1,0 +1,35 @@
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\9 практическая.exe
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\9 практическая.deps.json
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\9 практическая.runtimeconfig.json
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\9 практическая.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\9 практическая.pdb
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая_MarkupCompile.cache
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая_MarkupCompile.lref
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.g.resources
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.AssemblyInfoInputs.cache
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.AssemblyInfo.cs
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.csproj.CoreCompileInputs.cache
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\refint\9 практическая.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.pdb
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.genruntimeconfig.cache
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\ref\9 практическая.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.csproj.AssemblyReference.cache
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\App.baml
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\9 практическая.csproj.CopyComplete
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\Word.g.cs
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\Word.baml
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Spire.Barcode.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Spire.Doc.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Spire.Pdf.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Spire.Presentation.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\bin\Debug\net8.0-windows\Spire.XLS.dll
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\SendFile.g.cs
+C:\Users\erton\source\repos\balbes0\9 практическая\9 практическая\obj\Debug\net8.0-windows\SendFile.baml

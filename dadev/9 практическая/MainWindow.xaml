@@ -1,0 +1,24 @@
+﻿<Window x:Class="_9_практическая.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_9_практическая"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#413C42">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap"  Foreground="White">
+            Добро пожаловать в почтовый редактор текста!
+        </TextBlock>
+        <Button Grid.Row="1" Margin="20, 0, 20, 0" Click="Button_Click">Создать Word документ</Button>
+        <Button Grid.Row="2" Margin="20, 0, 20, 0" Click="Button_Click_1">Открыть Word документ</Button>
+    </Grid>
+</Window>
